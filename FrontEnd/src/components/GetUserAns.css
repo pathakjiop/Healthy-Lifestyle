@@ -1,0 +1,32 @@
+/* GetUserAns.css */
+.get-user-ans-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-radius: 8px;
+  }
+  
+  .get-user-ans-form input[type="text"],
+  .get-user-ans-form select {
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .get-user-ans-form button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .get-user-ans-form button:hover {
+    background-color: #218838;
+  }
+      
