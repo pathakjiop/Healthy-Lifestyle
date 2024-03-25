@@ -1,5 +1,8 @@
 # Healthy-Lifestyle Project
 
+![Photo](https://github.com/pathakjiop/Healthy-Lifestyle/assets/149372274/dc27aa6c-eb86-423a-8412-80388c31f3af)
+
+
 ## Overview
 
 The Healthy-Lifestyle project is designed to promote wellness and encourage individuals to achieve and maintain an optimal BMI (Body Mass Index). By inputting basic information (name, age, height, weight, gender), users can receive personalized BMI calculations through the Gemini API. Moreover, the project guides users on how to attain their ideal BMI through a comprehensive, 25-question questionnaire, offering tailored advice and actionable steps.
