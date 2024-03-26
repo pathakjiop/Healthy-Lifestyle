@@ -106,3 +106,7 @@ This project not only offers a straightforward way to understand one's BMI but a
 ## Contributing
 
 We welcome contributions! If you're interested in improving the Healthy-Lifestyle project, please fork the repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
