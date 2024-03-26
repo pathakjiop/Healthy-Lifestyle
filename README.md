@@ -26,18 +26,72 @@ The Healthy-Lifestyle project is designed to promote wellness and encourage indi
 - Ensure you have Python installed on your system.
 - Node.js and npm must be installed for the ReactJS frontend.
 
-### Backend Setup
+## Installation
 
-1. Clone the project repository.
-2. Navigate to the backend directory: `cd backend`
-3. Start the backend server: `python run.py`
+To install the Ayurvedic Information System, follow these steps:
 
-### Frontend Setup
+### 1. Clone the Repository
 
-1. Open a new terminal and navigate to the frontend directory: `cd frontend`
-2. Install the necessary npm packages: `npm install`
-3. Start the React development server: `npm start`
-4. The application should now be running on `http://localhost:3000`
+First, clone the project repository to your local machine using Git.
+
+```bash
+git clone https://github.com/pathakjiop/Healthy-Lifestyle.git
+cd Healthy-Lifestyle
+```
+
+### 2. Set Up Environment Variables
+
+ 1. Make a .env file in the Back-End.
+
+ 2. And add the gemini api key.
+      1. To get gemini api key go to https://aistudio.google.com/app/apikey
+      2. Click on Create API key.
+      3. Go to search box and select the option ( My First Project ).
+      4. Now, click on ( Create API key on existing project ).
+      5. Just copy the API key and move towards next step.
+
+3. Write this code in the .env file.
+
+  ```   
+GEMINI_API_KEY = YOUR_GEMINI_API_KEY    
+```
+
+Your gemini api key is ready to use.
+
+4. Go to Front_End in the file explorer and right click in the file explorer and click on the option Open in Terminal.
+
+5. Write the code mention below
+
+
+```bash
+npm install 
+```
+After every thing installed you are ready to use our project.
+
+## How To Start The Project
+
+### Starting Backend
+
+1.  Go to Back_End in the file explorer and right click in the file explorer and click on the option Open in Terminal.
+
+2. Write the code mention below.
+
+```bash
+python run.py
+```
+
+3. The Backend is now started.
+
+### Starting Backend
+
+1.  Go to Front_End in the file explorer and right click in the file explorer and click on the option Open in Terminal.
+
+2. Write the code mention below.
+
+```bash
+npm start
+```
+3. The Frontend is now started.
 
 ## How It's Beneficial
 
